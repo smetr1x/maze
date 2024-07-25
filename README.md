@@ -4,6 +4,8 @@ Implementation of the Maze project.
 
 The russian version of the task can be found in the repository.
 
+💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
+
 ## Contents
 
 1. [Chapter I](#chapter-i) \
@@ -185,5 +187,3 @@ Add cave generation [using a cellular automaton](#generation-using-a-cellular-au
     - Pressing the automatic work button starts rendering iterations of the algorithm with a frequency of 1 step in `N` milliseconds, where the number of milliseconds `N` is set through a special field in the user interface.
 - The size of cells in pixels is calculated so that the cave occupies the entire field allotted to it.
 - Prepare full coverage of the cave generation module with unit-tests.
-
-💡 [Tap here](https://forms.yandex.ru/cloud/64181d8ff47e7326ab0fc364/) **to leave your feedback on the project**. Our team really tries to make your educational experience better.
